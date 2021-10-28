@@ -1,6 +1,6 @@
 
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on everything that brings me more knowledge about programming 😄. 
+- I’m looking to collaborate on everything that brings me more knowledge about programming 😄. 
  <div>
   <a href="https://github.com/Lucas-ribe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-ribe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
